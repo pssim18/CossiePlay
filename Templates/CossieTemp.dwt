@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/CossiePlayStyle.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1 id="Banner">CossiePlay</h1>
+<h1 id="Nav_Bar"><table width="200" border="1">
+  <tbody>
+    <tr>
+      <td><a href="../index.html">Home</a></td>
+      <td><a href="../Announcement.html">Announcement</a></td>
+      <td><a href="../Guidelines.html">Guidelines</a></td>
+      <td><a href="../Signup.html">Sign Up</a></td>
+      <td>Product</td>
+      <td>Contact</td>
+      <td>Links</td>
+    </tr>
+  </tbody>
+</table>
+</h1>
+<!-- TemplateBeginEditable name="ContentEdit" -->
+<h1 id="Content">This is content</h1>
+<!-- TemplateEndEditable -->
+<h1 id="Footer">©CossiePlay All Right Reserved</h1>
+</body>
+</html>
